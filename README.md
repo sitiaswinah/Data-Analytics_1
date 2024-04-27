@@ -2,7 +2,9 @@
 What is Data? Data refers to specific information collected and interpreted for a particular purpose. If data is not presented in a particular format, it is not useful for either computers or humans. Data refers to specific information collected and interpreted for a particular purpose. The basic structures used in data analysis include rows and columns.
 
 **Data Basic**
+
 Type of Data Variable
+
 **1) Category**
 A data type that can be stored and identified based on the name or label given to the data.
 
